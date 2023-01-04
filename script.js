@@ -1,3 +1,5 @@
+
+
 const palindromeChecker = (str) => {
   let temp = "";
   str = str.toLowerCase();
